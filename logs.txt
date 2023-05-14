@@ -1,0 +1,416 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to False.
+
+
+  You can now view your Streamlit app in your browser.
+
+  Network URL: http://172.28.0.12:8501
+  External URL: http://34.83.230.84:8501
+
+2023-05-14 05:56:42.468338: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 168ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 32ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 184ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 44ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+2023-05-14 05:59:27.810 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c1c30cb80>
+2023-05-14 05:59:33.976 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c1d60cae0>
+2023-05-14 06:00:06.086 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c441d8720>
+2023-05-14 06:00:10.322 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4beea71260>
+2023-05-14 06:00:11.145 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c10e25e90>
+2023-05-14 06:00:39.192 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c10e017b0>
+2023-05-14 06:00:47.521 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4bed29fe20>
+2023-05-14 06:00:49.816 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4bed28c680>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 98ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 25ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+2023-05-14 06:01:52.454 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:02:07.527 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:02:22.013 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:02:38.902 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:02:58.980 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c9461dee0>
+2023-05-14 06:03:34.067 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 67, in <module>
+    image = Image.open(r.raw)
+  File "/usr/local/lib/python3.10/dist-packages/PIL/Image.py", line 3030, in open
+    raise UnidentifiedImageError(
+PIL.UnidentifiedImageError: cannot identify image file <_io.BytesIO object at 0x7f4c1c3691c0>
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 101ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 26ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+WARNING:tensorflow:5 out of the last 9 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7f4bee8193f0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 92ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 24ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+2023-05-14 06:12:51.635 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:13:19.562 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:13:52.154 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:14:54.900 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:15:10.918 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+WARNING:tensorflow:6 out of the last 11 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7f4bed2b15a0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 111ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+2023-05-14 06:16:19.815 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:16:32.233 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 137ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 37ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+2023-05-14 06:20:06.830 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:20:45.246 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+2023-05-14 06:21:15.150 Uncaught app exception
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/streamlit/runtime/scriptrunner/script_runner.py", line 565, in _run_script
+    exec(code, module.__dict__)
+  File "/content/app.py", line 71, in <module>
+    img = preprocessing(img)
+  File "/content/app.py", line 38, in preprocessing
+    img = grayscale(img)
+  File "/content/app.py", line 29, in grayscale
+    image = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+cv2.error: OpenCV(4.7.0) /io/opencv/modules/imgproc/src/color.simd_helpers.hpp:92: error: (-2:Unspecified error) in function 'cv::impl::{anonymous}::CvtHelper<VScn, VDcn, VDepth, sizePolicy>::CvtHelper(cv::InputArray, cv::OutputArray, int) [with VScn = cv::impl::{anonymous}::Set<3, 4>; VDcn = cv::impl::{anonymous}::Set<1>; VDepth = cv::impl::{anonymous}::Set<0, 2, 5>; cv::impl::{anonymous}::SizePolicy sizePolicy = cv::impl::<unnamed>::NONE; cv::InputArray = const cv::_InputArray&; cv::OutputArray = const cv::_OutputArray&]'
+> Invalid number of channels in input image:
+>     'VScn::contains(scn)'
+> where
+>     'scn' is 1
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 93ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 23ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 115ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 29ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 150ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 38ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 160ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 98ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 28ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 153ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 36ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 105ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 25ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 116ms/step
+1/1 [==============================] - ETA: 0s1/1 [==============================] - 0s 25ms/step
+/content/app.py:85: FutureWarning:
+
+iteritems is deprecated and will be removed in a future version. Use .items instead.
+
