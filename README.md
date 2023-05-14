@@ -10,15 +10,6 @@
 Sign Mapper is a web application that allows users to add image link of road signs and receive predictions about what type of sign is in the image. The model is based on a convolutional neural network (CNN) that was trained on a large dataset of road sign images, and is capable of detecting a wide variety of signs, including stop signs, yield signs, speed limit signs, and more. The application also provides a visual output that shows the name and id of the detected sign in the input image.
 
 
-## Badges
-
-Add badges from somewhere like: [shields.io](https://img.shields.io/github/forks/vaishnavi-3969/AI-Hackfest?style=social)
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
 ## Authors
 
 - [@vaishnavi-3969](https://github.com/vaishnavi-3969)
