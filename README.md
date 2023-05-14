@@ -5,7 +5,8 @@
 [![Fork](https://img.shields.io/aur/last-modified/google-chrome)]()
 
 
-# Traffic Sign Classifier and Detector
+# SIGN MAPPER: Traffic Sign Classifier and Detector
+![medium](https://github.com/vaishnavi-3969/AI-Hackfest/assets/80088403/2f771fb5-c24f-4b6e-8785-05f08b2082cd)
 
 Sign Mapper is a web application that allows users to add image link of road signs and receive predictions about what type of sign is in the image. The model is based on a convolutional neural network (CNN) that was trained on a large dataset of road sign images, and is capable of detecting a wide variety of signs, including stop signs, yield signs, speed limit signs, and more. The application also provides a visual output that shows the name and id of the detected sign in the input image.
 
