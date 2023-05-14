@@ -40,7 +40,7 @@ def preprocessing(img):
     img = img/255
     return img
 
-new_model = tf.keras.models.load_model('/content/signs.h5')
+new_model = tf.keras.models.load_model('signs.h5')
 
 
 
